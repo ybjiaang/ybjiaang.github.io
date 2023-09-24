@@ -29,39 +29,52 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-display: auto;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-display: auto;
 }
 
 h2 {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-display: auto;
   font-weight: normal;
   padding: 0px;
   margin: 0px;
   display:inline; 
+  color: rgb(173, 0, 241);
 }
 
 h3 {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
   font-weight: 700;
   font-display: auto;
   padding: 0px;
   margin: 0px;
   display:inline; 
+  color:rgb(0, 79, 241);
+}
+
+h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-display: auto;
+  padding: 0px;
+  margin: 0px;
+  display:inline; 
+  color:rgb(0, 79, 241);
 }
 
 h1 {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 32px;
   font-weight: normal;
   font-display: auto;
@@ -87,6 +100,13 @@ h1 {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+.xtitle{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  margin: 10px 0;
+  color: rgb(0, 79, 241);
 }
 
 .fade {

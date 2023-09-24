@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Uncovering Meanings of Embeddings via Markov Boundaries"
+date:   2023-09-24
+categories: research
+author: "Yibo Jiang"
+authors: "<strong>Yibo Jiang</strong>, Bryon Aragam, Victor Veitch"
+venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+---
