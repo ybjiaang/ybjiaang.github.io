@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints"
+date:   2023-09-28
+categories: research
+author: "Yibo Jiang"
+authors: "Chaoqi Wang, <strong>Yibo Jiang</strong>, Chenghao Yang, Han Liu, Yuxin Chen"
+venue: "arxiv Preprint"
+arxiv: https://arxiv.org/abs/2309.16240
+---
