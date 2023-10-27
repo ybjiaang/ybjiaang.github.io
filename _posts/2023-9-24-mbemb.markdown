@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Uncovering Meanings of Embeddings via Markov Boundaries"
+title:  "Uncovering Meanings of Embeddings via Partial Orthogonality"
 date:   2023-09-24
 categories: research
 author: "Yibo Jiang"
