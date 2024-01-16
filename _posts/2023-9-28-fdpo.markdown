@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints"
-date:   2023-09-28
+date:   2024-01-16
 categories: research
 author: "Yibo Jiang"
 authors: "Chaoqi Wang, <strong>Yibo Jiang</strong>, Chenghao Yang, Han Liu, Yuxin Chen"
-venue: "Socially Responsible Language Modelling Research (SoLaR) Workshop, NeurIPS"
+venue: "International Conference on Learning Representations (ICLR)"
+award: "(Spotlight, 5%)"
 arxiv: https://arxiv.org/abs/2309.16240
 ---

@@ -131,6 +131,9 @@
               {{post.authors}}
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.award %}
+              <strong style="color: red;">{{post.award}}</strong>
+              {% endif %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> 
@@ -183,7 +186,7 @@
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Profile picture taken by <a style="font-size:small;" href="https://www.instagram.com/qsqsqsqsqsqssss/">Qian Sheng</a>. Last updated September 2023.
+                Profile picture taken by <a style="font-size:small;" href="https://www.instagram.com/qsqsqsqsqsqssss/">Qian Sheng</a>. Last updated January 2024.
               </p>
             </td>
           </tr>
