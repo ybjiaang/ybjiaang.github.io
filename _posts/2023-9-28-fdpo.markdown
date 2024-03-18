@@ -6,6 +6,7 @@ categories: research
 author: "Yibo Jiang"
 authors: "Chaoqi Wang, <strong>Yibo Jiang</strong>, Chenghao Yang, Han Liu, Yuxin Chen"
 venue: "International Conference on Learning Representations (ICLR)"
+code: https://github.com/alecwangcq/f-divergence-dpo
 award: "(Spotlight, 5%)"
 arxiv: https://arxiv.org/abs/2309.16240
 ---
