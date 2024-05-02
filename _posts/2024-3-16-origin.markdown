@@ -5,6 +5,6 @@ date:   2024-03-16
 categories: research
 author: "Yibo Jiang"
 authors: " <strong>Yibo Jiang*</strong>, Goutham Rajendran*, Pradeep Ravikumar, Bryon Aragam, Victor Veitch"
-venue: "arxiv Preprint"
+venue: "International Conference on Machine Learning (ICML)"
 arxiv: https://arxiv.org/abs/2403.03867
 ---
