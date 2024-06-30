@@ -7,4 +7,5 @@ author: "Yibo Jiang"
 authors: "<strong>Yibo Jiang</strong>, Bryon Aragam, Victor Veitch"
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
 arxiv: https://arxiv.org/abs/2310.17611
+video: https://slideslive.com/39008927
 ---
