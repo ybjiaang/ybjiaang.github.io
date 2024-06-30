@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Do LLMs Dream of Elephants (When Told not to)? Latent Concept Association and Associative Memory in Transformers"
+title:  "Do LLMs Dream of Elephants (When Told Not to)? Latent Concept Association and Associative Memory in Transformers"
 date:   2024-06-30
 categories: research
 author: "Yibo Jiang"
