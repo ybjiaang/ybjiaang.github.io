@@ -6,6 +6,6 @@ categories: research
 author: "Yibo Jiang"
 authors: "Kiho Park, Yo Joong Choe, <strong>Yibo Jiang</strong>, Victor Veitch"
 venue: "ICML Mechanistic Interpretability Workshop"
-award: "(Oral, Best Paper Award)"
+award: "(Best Paper Award)"
 arxiv: https://arxiv.org/abs/2406.01506
 ---
