@@ -5,6 +5,6 @@ date:   2024-06-30
 categories: research
 author: "Yibo Jiang"
 authors: " <strong>Yibo Jiang</strong>, Goutham Rajendran, Pradeep Ravikumar, Bryon Aragam"
-venue: "ICML Mechanistic Interpretability Workshop"
+venue: "Advances in Neural Information Processing Systems (NeurIPS)"
 arxiv: https://arxiv.org/abs/2406.18400
 ---
