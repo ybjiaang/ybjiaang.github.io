@@ -135,6 +135,13 @@
               <strong style="color: red;">{{post.award}}</strong>
               {% endif %}
               <br>
+              {% if post.workshop %}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.workshopaward %}
+              <strong style="color: red;">{{post.award}}</strong>
+              {% endif %}
+              <br>
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> 
               {% else %}
