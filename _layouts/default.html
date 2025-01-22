@@ -136,7 +136,7 @@
               {% endif %}
               <br>
               {% if post.workshop %}
-              <em>{{post.workshop}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.workshop}}</em>, {{ post.workshopdate | date: "%Y" }}
               {% if post.workshopaward %}
               <strong style="color: red;">{{post.workshopaward}}</strong>
               {% endif %}
