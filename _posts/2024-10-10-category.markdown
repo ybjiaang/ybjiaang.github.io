@@ -8,7 +8,7 @@ authors: "Kiho Park, Yo Joong Choe, <strong>Yibo Jiang</strong>, Victor Veitch"
 venue: "International Conference on Learning Representations (ICLR)"
 workshop: "ICML Mechanistic Interpretability Workshop"
 workshopaward: "(Best Paper Award)"
-workshopdate: 2023-7-16
+workshopdate: 2024-7-16
 arxiv: https://arxiv.org/abs/2406.01506
 code: https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations
 ---
