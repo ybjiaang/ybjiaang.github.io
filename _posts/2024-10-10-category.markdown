@@ -9,4 +9,5 @@ venue: "International Conference on Learning Representations (ICLR)"
 workshop: "ICML Mechanistic Interpretability Workshop"
 workshopaward: "(Best Paper Award)"
 arxiv: https://arxiv.org/abs/2406.01506
+code: https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations
 ---
