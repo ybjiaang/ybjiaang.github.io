@@ -6,6 +6,7 @@ categories: research
 author: "Yibo Jiang"
 authors: "Kiho Park, Yo Joong Choe, <strong>Yibo Jiang</strong>, Victor Veitch"
 venue: "International Conference on Learning Representations (ICLR)"
+award: "(Oral, 1.8%)"
 workshop: "ICML Mechanistic Interpretability Workshop"
 workshopaward: "(Best Paper Award)"
 workshopdate: 2024-7-16
